@@ -92,13 +92,13 @@
 .btn{
     text-decoration: none;
     color: white;
-
-}
-.btn:hover{
+    &:hover{
     opacity: 0.8;
     color: darkorchid;
 }
-.btn:active {
+    &:active {
     opacity: 0.9;
 }
+}
+
 
