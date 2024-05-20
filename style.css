@@ -89,8 +89,16 @@
     top: 51%;
     left: 67%;
 }
-.button-a{
+.btn{
     text-decoration: none;
     color: white;
+
+}
+.btn:hover{
+    opacity: 0.8;
+    color: darkorchid;
+}
+.btn:active {
+    opacity: 0.9;
 }
 
